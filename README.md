@@ -2,14 +2,7 @@
 
 Sysrev - sysrev.com/p/125106
 
-# Questions
-1. Marie - is there an existing document?
-2. Can we make this a public project? yes, but wait for figures
+We created a cloned project to evaluate the model performance of the original inclusion criteria relative to the final inclusion criteria. this is in sysrev.com/p/150256
 
-
-# todo (end of thursday)
-0. remove meg from the analysis
-1. Finish & email figures
-2. Include a conversation excerpt in the documents 
-3. Send the false positives 
-4. Look at the document that has been sent and add figures. 
+## Development
+All code for generating paper figures is in ./stages. These stages are meant to be run in numeric order.

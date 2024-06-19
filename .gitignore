@@ -1,0 +1,6 @@
+.env
+.sr
+scratch.*
+cache
+resources
+notes.md
